@@ -46,3 +46,9 @@ Initia is a lean, bootstrap-first impact token built on a low-gas Layer-2 chain.
 git clone https://github.com/<your-username>/initia-protocol.git
 cd initia-protocol
 npm install
+
+
+## Protocol Status
+
+- Initia Protocol v1 is declared **frozen**
+- See: [v1 Frozen Declaration](docs/v1-frozen-declaration.md)
