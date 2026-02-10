@@ -45,7 +45,7 @@ Initia is a lean, bootstrap-first impact token built on a low-gas Layer-2 chain.
 ```bash
 git clone https://github.com/<your-username>/initia-protocol.git
 cd initia-protocol
-npm install/'/'/
+npm install \'\'\
 
 
 ## Protocol Status
